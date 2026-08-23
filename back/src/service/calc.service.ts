@@ -1,0 +1,2 @@
+import Math from "fastify";
+
